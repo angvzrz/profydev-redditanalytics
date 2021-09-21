@@ -4,20 +4,19 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+    <img 
+      src="https://toppng.com/uploads/preview/reddit-icon-reddit-logo-transparent-115628752708pqmsy4kgm.png" alt="" 
+      width="150"  
+      />
+      <ul>
+        <li>Search</li> 
+        <li>How it works</li> 
+        <li>About</li>
+      </ul>
+    </div>
+      
+      <p>Find the best time for a subreddit</p>
     </div>
   );
 }

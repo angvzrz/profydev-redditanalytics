@@ -1,0 +1,6 @@
+    ~   the logo is a link that points to the home page
+
+    ~   the How it works and About links point to the corresponding sections on the 
+        home page via URL hashes #how-it-works and #about
+        
+    ~   the Search link points to the search page with javascript as the default value in the URL
